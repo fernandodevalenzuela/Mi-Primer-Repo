@@ -1,3 +1,3 @@
 # Mi-Primer-Repo
 
-## Esto esun subtítulo
+## Esto es un subtítulo
